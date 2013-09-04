@@ -1,4 +1,5 @@
-compsci
+Computer Science Class
 =======
 
-Computer Science for High School
+A set of materials for teaching CompSci to High-School students
+
