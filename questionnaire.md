@@ -1,5 +1,5 @@
 ## Saint Mary's College High School
-Mr Scott Stanfield  (sstanfield@stmchs.org)  
+Mr Scott Stanfield  (sstanfield@smpanthers.org)  
 Mr Erick Molnar     (emolnar@stmchs.org)  
 
 Computer Science • Fall 2013
