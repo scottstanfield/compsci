@@ -1,4 +1,5 @@
-# Best Mac Keyboard Shortcuts
+Best Mac Keyboard Shortcuts
+===========================
 
 Two sites helped me figure this out:
 
@@ -15,8 +16,8 @@ Key symbols:
 	⌘ command 
 	⇥ tab
 
-
-## System wide...
+System wide...
+--------------
 
 |Keys    | it...               | (in English)          |
 |--------|---------------------|-----------------------|
@@ -24,7 +25,8 @@ Key symbols:
 | ⇧ ⌃ Q  | logs you out        | shift + ctrl + Q      |
 
 
-## Every app...
+Every app...
+------------
 
 |Keys    | it...                | (in English)          |
 |--------|----------------------|-----------------------|
@@ -32,14 +34,16 @@ Key symbols:
 | ⌘ + W  | closes the app window| command + Q           |
 
 
-## Clipboard and Forms
+Clipboard and Forms
+-------------------
 
 |Keys    | it...               | (in English)          |
 |--------|---------------------|-----------------------|
 |⇥       | sleeps the screen   | TAB                   |
 
 
-## Chrome
+Chrome
+------
 
 
 
