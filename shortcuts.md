@@ -1,6 +1,5 @@
 Best Mac Keyboard Shortcuts
 ===========================
-
 Three sites helped me figure this out:
 
 * [mackeys.info][1] lets you just type English key names and it
@@ -25,6 +24,7 @@ System wide...
 |--------|---------------------|-----------------------|
 | ⇧ ⌃ ⏏  | sleep the screen    | shift + ctrl + eject  |
 | ⇧ ⌃ Q  | log you out         | shift + ctrl + Q      |
+| ⌘ + space  | Spotlight       | command + space       |
 
 
 Every app...
