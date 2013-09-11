@@ -20,12 +20,12 @@ Key symbols:
 System wide...
 --------------
 
-|Keys    | will...             | (in English)          |
-|--------|---------------------|-----------------------|
-| ⇧ ⌃ ⏏  | sleep the screen    | shift + ctrl + eject  |
-| ⇧ ⌃ Q  | log you out         | shift + ctrl + Q      |
-| ⌘ + space  | Spotlight       | command + space       |
-| ⌘ + tab  | Cycle betwen apps    | command + tab       |
+|Keys        | will...             | (in English)          |
+|------------|---------------------|-----------------------|
+| ⇧ ⌃ ⏏      | sleep the screen    | shift + ctrl + eject  |
+| ⇧ ⌃ Q      | log you out         | shift + ctrl + Q      |
+| ⌘ + space  | Spotlight           | command + space       |
+| ⌘ + tab    | Cycle between apps  | command + tab         |
 
 
 Every app...
