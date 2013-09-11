@@ -26,6 +26,7 @@ System wide...
 | ⇧ ⌃ Q      | log you out         | shift + ctrl + Q      |
 | ⌘ + space  | Spotlight           | command + space       |
 | ⌘ + tab    | Cycle between apps  | command + tab         |
+| ⌘ + ⇧ + D  | Show/hide the Dock  | command + shift + D   |
 
 
 Every app...
