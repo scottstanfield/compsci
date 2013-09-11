@@ -72,9 +72,9 @@ Assume you want the square root of a number `n`
 	g = (5.0392 * 25/5.0392) / 2 = 5.000000
 
 This is an `algorithm` that we learn to translate into a `program` for a
-computer. Essential features:
+computer. Essential features in a program:
 
-- It stopped, or converged. (shampoo)
+- It stopped, or converged. (shampoo) Occasionally they don't stop.
 - instructions (operators and operands)
 - Flow of control (go back to step 2, start over)
 
@@ -115,6 +115,47 @@ each operating on 1 bit of information.
 
 Read, write, L, R, N,  HALT
 http://aturingmachine.com
+
+Python is a teaching tool. Not the best language: no such thing. Easily transferable
+skills. It has:
+
+1. syntax				
+   which sequence of characters and symbols are  
+   x = 3 + 4 *OK* x = 3 4 *NOT OK*  
+
+   Formally specified in BNF:  
+   http://inst.eecs.berkeley.edu/~cs164/fa11/python-grammar.html
+
+2. static semantics
+   which well-formed strings have a meaning
+
+3. semantics
+
+You're program might:
+- crash
+- might never stop (Max's primes, Sean's loop) / infinite loop
+- run to completion but produce the wrong answer
+  example: radiation machine, mars probe error
+
+Big error, the 1999 $125M Mars orbiter. After 286-day journey, probe
+fired to push itself into orbit. Got too close, about 100km too close.
+We used pound-seconds instead of newton-seconds.
+
+Flight system software onboard used SI units so expected newton-seconds for thrust.
+Ground-based software sent Imperial measures in pound-force. 
+
+### Why Python?
+Much easier than Java
+More 'correct' than JavaScript
+Popular in the science and engineering
+Easier to debug (interpreted vs. compiler)
+
+Interpreted:
+	source code -> checker -> interpreter -> output
+Compiled
+	source -> compiler -> object code (hardware) -> interpreter ->
+	output
+
 
 
 
