@@ -8,6 +8,10 @@ https://gist.github.com/scottstanfield/6450745
 
 ## Mac Setup
 
+### 0. Setup mouse right-click
+Go to System Preferences, locate Mouse and enable the right-mouse
+button. 
+
 ### 1. Spectacle
 [Spectacle](http://cl.ly/RQLx) is a free window resizer program. 
 
