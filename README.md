@@ -46,5 +46,8 @@ interest. Use these links to learn more:
 - [VIM Adventures](http://vim-adventures.com/)  
 - [Interactive Tutorial](http://www.openvim.com/tutorial.html)
 
+## HTML5 Links
 
+I learned HTML5 from (Dive into HTML5)[http://diveintohtml5.info/]
+by Mark Pilgram. 
 
