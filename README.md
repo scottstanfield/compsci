@@ -23,6 +23,11 @@ better replacement for TextEdit.
 4. Skip the registration
 5. You may be prompted for your credentials...this is an important step
 
+### 3. Terminal
+Change your terminal preferences:
+- Set BASIC to the default
+- Change the typeface to 16 pt.
+
 Pin it to you start menu.
 
 Also:
