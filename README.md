@@ -8,10 +8,11 @@ https://gist.github.com/scottstanfield/6450745
 
 ## Mac Setup
 
-### 1. ShiftIt
-[ShiftIt v1.6](http://cl.ly/3p071K0S2B0y/download/ShiftIt-1.6-NoX11.zip) lets you arrange windows using keyboard shortcuts. 
-This is a special build that doesn't require the use of X11, a infrequently used library of code. After unzipping, 
-drag it to your Applications folder and run it.
+### 1. Spectacle
+[Spectacle](http://cl.ly/RQLx) is a free window resizer program. 
+
+The Spectacle [website](http://spectacleapp.com/) shows a good
+demonstration of the capabilities.
 
 ### 2. TextWrangler
 [TextWrangler 4.5.3](http://www.barebones.com/products/textwrangler/download.html) is a free code editor and a 
