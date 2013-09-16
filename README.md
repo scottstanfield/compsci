@@ -39,3 +39,12 @@ Also:
 - arrange icons on dock
 - turn off AirDrop
 
+## vi(m): the best text editor
+We're not going to learn vim in class, but some of you have expressed an
+interest. Use these links to learn more:
+
+- [VIM Adventures](http://vim-adventures.com/)  
+- [Interactive Tutorial](http://www.openvim.com/tutorial.html)
+
+
+
