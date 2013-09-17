@@ -55,6 +55,13 @@ interest. Use these links to learn more:
 - [VIM Adventures](http://vim-adventures.com/)  
 - [Interactive Tutorial](http://www.openvim.com/tutorial.html)
 
+There's a great [grahical cheatsheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html);
+just focus on Lesson 1 for now.
+
+Also, [the vi(m) learning curve is a
+myth](http://robots.thoughtbot.com/post/13164810557/the-vim-learning-curve-is-a-myth).
+
+
 ## HTML5 Links
 
 I learned HTML5 from (Dive into HTML5)[http://diveintohtml5.info/]
