@@ -39,6 +39,17 @@ Also:
 - arrange icons on dock
 - turn off AirDrop
 
+#### Tutorials
+
+Lost a lot of folks yesterday on the command line. Some tutorials?
+http://www.davidbaumgold.com/tutorials/command-line/
+
+Simple but good
+http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+
+Zed Shaw:
+http://cli.learncodethehardway.org/book/
+
 ## Python
 
 * [Dive into Python](http://www.diveintopython.net)
