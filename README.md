@@ -52,6 +52,32 @@ http://cli.learncodethehardway.org/book/
 
 ## Python
 
+Installing [iPython](http://ipython.org/) the interactive Python:
+
+1. Apple doesn't install a C language compiler on your Mac, and it's
+   needed by many programs. Install from the command line tools.
+
+2. Install the `brew` program from [Homebrew](http://brew.sh)
+
+`
+	% brew doctor  
+	% brew install cowsay  
+	% cowsay 'brew is awesome'  
+`
+
+The `brew doctor` command might ask you to modify your path, so that
+`/usr/local/bin` is in your path before `/usr/bin`. Follow those
+instructions.
+
+3. Upgrade your Python. Apple does ship a version of `python` with OS X,
+   but there are extra features we need, only available by customizing
+   our installation. Follow these steps
+
+   easy_install ipython[all]  
+   iptest   
+   brew install pyqt  
+
+
 * [Dive into Python](http://www.diveintopython.net)
 My favorite book jumps right in. It may assume you have some programming
 knowledge, but I like the detail in each chapter.
