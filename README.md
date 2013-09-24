@@ -85,6 +85,13 @@ knowledge, but I like the detail in each chapter.
 * [Python Learn](http://www.pythonlearn.com/book_007.pdf) is a more
   traditional book, that builds from very little starting knowledge.
 
+* [Learn Python in 10 Minutes](http://www.stavros.io/tutorials/python/)
+* [Instant Python](http://hetland.org/writing/instant-python.html)
+ 
+
+http://www.stavros.io/tutorials/python/
+
+
 ## vi(m): the best text editor
 We're not going to learn vim in class, but some of you have expressed an
 interest. Use these links to learn more:
