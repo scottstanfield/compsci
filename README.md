@@ -10,6 +10,9 @@ Read these two short tutorials on Python:
 
 * [Learn Python in 10 Minutes](http://www.stavros.io/tutorials/python/)
 * [Instant Python](http://hetland.org/writing/instant-python.html)
+
+Notes on today's class lecture on [finding square
+roots](http://radiantbytes.com/books/python-latex/src/chap9.html).
  
 About this class
 ================
