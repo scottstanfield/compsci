@@ -1,5 +1,18 @@
 Computer Science Class
-=======
+----------------------
+
+Homework
+========
+
+### 4.4 (Week 4, Day 4: Sept 26)
+
+Read these two short tutorials on Python:
+
+* [Learn Python in 10 Minutes](http://www.stavros.io/tutorials/python/)
+* [Instant Python](http://hetland.org/writing/instant-python.html)
+ 
+About this class
+================
 
 A set of materials for teaching CompSci to High-School students
 
@@ -85,9 +98,6 @@ knowledge, but I like the detail in each chapter.
 * [Python Learn](http://www.pythonlearn.com/book_007.pdf) is a more
   traditional book, that builds from very little starting knowledge.
 
-* [Learn Python in 10 Minutes](http://www.stavros.io/tutorials/python/)
-* [Instant Python](http://hetland.org/writing/instant-python.html)
- 
 
 http://www.stavros.io/tutorials/python/
 
@@ -110,4 +120,8 @@ myth](http://robots.thoughtbot.com/post/13164810557/the-vim-learning-curve-is-a-
 
 I learned HTML5 from (Dive into HTML5)[http://diveintohtml5.info/]
 by Mark Pilgram. 
+
+
+## Homework
+(Scroll back up to the top of the page)
 
