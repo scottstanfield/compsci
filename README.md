@@ -12,6 +12,10 @@ Read this one short tutorials on Python:
 
 Notes on today's class lecture on [finding square
 roots](http://radiantbytes.com/books/python-latex/src/chap9.html).
+
+This tutorial is longer than I realized. So we won't be tested on it
+this week. We'll continue reviewing the concepts it covers in class
+tomorrow.
  
 About this class
 ================
