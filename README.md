@@ -6,9 +6,8 @@ Homework
 
 ### 4.4 (Week 4, Day 4: Sept 26)
 
-Read these two short tutorials on Python:
+Read this one short tutorials on Python:
 
-* [Learn Python in 10 Minutes](http://www.stavros.io/tutorials/python/)
 * [Instant Python](http://hetland.org/writing/instant-python.html)
 
 Notes on today's class lecture on [finding square
