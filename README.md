@@ -14,7 +14,11 @@ It will cover:
 There will be a mix of multiple choice questions, written answers and a
 practical portion (running commands on the computer).
 
-Read [Survival Guide to UNIX for Newbies](http://matt.might.net/articles/basic-unix/)
+To study for the command part of the test:
+
+* Read [Survival Guide to UNIX for Newbies](http://matt.might.net/articles/basic-unix/)
+* Then read part 2, [Settling into Unix](http://matt.might.net/articles/settling-into-unix/)
+
 
 Homework
 ========
