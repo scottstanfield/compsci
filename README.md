@@ -1,6 +1,20 @@
 Computer Science Class
 ----------------------
 
+Test
+====
+First test will be on Friday, Oct 11th.
+It will cover:
+
+- number system and conversions (like binary and hexadecimal). 
+- Encoding the alphabet in [ASCII](http://en.wikipedia.org/wiki/ASCII)
+- basic Unix
+  [commands](https://github.com/scottstanfield/compsci/blob/master/commands.md)
+
+There will be a mix of multiple choice questions, written answers and a
+practical portion (running commands on the computer).
+
+
 Homework
 ========
 
