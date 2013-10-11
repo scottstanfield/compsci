@@ -19,6 +19,11 @@ To study for the command part of the test:
 * Read [Survival Guide to UNIX for Newbies](http://matt.might.net/articles/basic-unix/)
 * Then read part 2, [Settling into Unix](http://matt.might.net/articles/settling-into-unix/)
 
+Scavenger Hunt
+==============
+Leading up to the test, we've been on a "scavenger hunt", looking through various bits of the Mac.
+
+Here's the [scavenger hunt](https://github.com/scottstanfield/compsci/blob/master/scavenger-hunt.md)
 
 Homework
 ========
