@@ -25,8 +25,9 @@ Redirection will append to an existing file if you use `>>`
 
   b. Find all the words with 'apple' in them, and save to a new file called 'apple.txt' in the same folder.
 
-5. Decode this into English. Spaces below are for your benefit:
-   456e 6967 6d61 2043 6970 6865 722e
+5. Decode this into English. Spaces below are for your benefit:  
+        
+        456e 6967 6d61 2043 6970 6865 722e
 
    Put the answer at the bottom of your results.txt file.
 
