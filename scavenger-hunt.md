@@ -21,9 +21,9 @@ Redirection will append to an existing file if you use `>>`
 
 4. File manipulation
   
-  a. Copy the dictionary file to a new folder ~/code/hunt/dictionary.
+  a. Copy the dictionary file to a new folder `~/code/hunt/dictionary`
 
-  b. Find all the words with 'apple' in them, and save to a new file called 'apple.txt' in the same folder.
+  b. Find all the words with 'apple' in them, and save to a new file called `apple.txt` in the `dictionary` folder.
 
 5. Decode this into English. Spaces below are for your benefit:  
         
