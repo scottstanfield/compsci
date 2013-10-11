@@ -6,6 +6,9 @@ Get help with a command
 `man ascii`  
 Get help with a command
 
+`cp <source> <target>`
+Copy a file from a source location to the target destination. 
+
 `ping <url>`  
 See if another computer is alive and get it's IP address.
 
@@ -15,7 +18,7 @@ list files
 `rm <file>`  
 remove a file
 
-`rm -r <directory>`  
+`rm -r <directory>` or `rmdir <directory>`  
 remove a directory
 
 `cd`  
