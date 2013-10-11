@@ -31,6 +31,6 @@ Redirection will append to an existing file if you use `>>`
 
    Put the answer at the bottom of your results.txt file.
 
-6. Use the `tree` command from the ~/code/hunt folder to get a nice listing of all your files. You might need to install it. Include the option to show the **size** of each file. Append the output to results.txt.
+6. Use the `tree` command from the `~/code/hunt` folder to get a nice listing of all your files. You might need to install it. Include the option to show the **size** of each file. Append the output to results.txt.
 
 7. Print `results.txt` and hand it in. You can use either TextWrangler or TextEdit to print.
