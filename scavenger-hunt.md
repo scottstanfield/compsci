@@ -15,7 +15,7 @@ Redirection will append to an existing file if you use `>>`
 
   a. Find all the 3-letter English words that have no vowels. Put those words in `results.txt` using redirection.
 
-  b. Find the middle word in the dictionary, and put it at the end of the file. Hint: head, tail, wc commands
+  b. Find the middle word in the dictionary, and put it at the end of the file. Hint: `wc`, `head`, `tail`
 
   c. Count the number of words that have "fox" in them; put the count at the end of the file.
 
