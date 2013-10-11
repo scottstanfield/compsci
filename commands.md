@@ -6,7 +6,7 @@ Get help with a command
 `man ascii`  
 Get help with a command
 
-`cp <source> <target>`
+`cp <source> <target>`  
 Copy a file from a source location to the target destination. 
 
 `ping <url>`  
