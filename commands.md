@@ -48,6 +48,9 @@ Search through the file for a word or pattern
 `whoami`  
 show your username
 
+`touch <filename>`
+Create a new, empty file called <filename>
+
 optional
 --------
 `brew`  
