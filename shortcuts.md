@@ -9,6 +9,10 @@ Three sites helped me figure this out:
 
 * Useful [Gmail][3] shortcuts 
 
+Update: I just found this
+[Lifehacker](http://lifehacker.com/10-things-you-can-do-on-a-pc-without-ever-touching-the-1443071119)
+site that illustrates a lot more you can do without the mouse.
+
 Key symbols:
 
 	⇧ shift
