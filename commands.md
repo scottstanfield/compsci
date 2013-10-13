@@ -51,6 +51,9 @@ show your username
 `touch <filename>`  
 Create a new, empty file called <filename>
 
+`history`
+show a list of all the commands you've typed
+
 optional
 --------
 `brew`  

@@ -5,6 +5,9 @@ For this Scavenger Hunt, you don't need to use nano (unless you mess up).
 
 Redirection will append to an existing file if you use `>>`
 
+# Try again
+
+
 # Scavenger Hunt
 
 1. Make a folder `~/code/hunt`
