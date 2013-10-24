@@ -3,7 +3,7 @@
     $ ssh-keygen -t rsa             # hit "enter" for all the defaults
     $ cd ~/.ssh                     # two new files were created here
     $ ls -l                             # look at the permissions
-    $ cat .ssh/id*                      # look at the two files
+    $ cat id*                      # look at the two files
 
 `id_rsa.pub` is your PUBLIC key. You can share this with anyone. Don't ever share your `id_rsa` file.
 
