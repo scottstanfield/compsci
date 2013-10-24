@@ -1,6 +1,11 @@
 Computer Science Class
 ----------------------
 
+Kahn Programming Videos
+=======================
+By Friday, Oct 25:
+Watch the first 3 [Khan videos](https://www.khanacademy.org/science/computer-science).
+
 Test
 ====
 First test will be on Friday, Oct 11th.
