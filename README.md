@@ -9,6 +9,8 @@ Watch the first 3 [Khan videos](https://www.khanacademy.org/science/computer-sci
 - binary numbers
 - python lists
 
+Use the code ZM6ZR6 to join my class on Khan Academy.
+
 Test
 ====
 First test will be on Friday, Oct 11th.
