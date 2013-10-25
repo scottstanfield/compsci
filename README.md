@@ -3,13 +3,21 @@ Computer Science Class
 
 Kahn Programming Videos
 =======================
-By Friday, Oct 25:
-Watch the first 3 [Khan videos](https://www.khanacademy.org/science/computer-science).
+Quiz postponed to Monday, Oct 28
+
+Watch the first 6 [Khan videos](https://www.khanacademy.org/science/computer-science).
+
 - intro to programs: types and variables
 - binary numbers
 - python lists
+- for loops
+- while loops
+- fun with strings
 
 Use the code ZM6ZR6 to join my class on Khan Academy.
+
+Not required but recommended. Read this on Python lists:
+http://effbot.org/zone/python-list.htm
 
 Test
 ====
