@@ -40,7 +40,7 @@ represented with two characters, the backtick and a lower-case t: `\t`
 Type in these lines in ipython to see how \t is translated into a tab character
 
         print "michael\tjackson"
-        print "michael" + "\t"*5 "jackson"
+        print "michael" + "\t"*5 + "jackson"
 
 
 The `expand` unix program replaces the tabs with 20 spaces, making it easier (for humans) to read.
