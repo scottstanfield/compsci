@@ -1,34 +1,35 @@
-Player A	Position	chip count	table
-Jake	1	875	A
-Sawyer Nixon	2	740	A
-Elizabeth Sancha	3	980	A
-Josh Pena	4	1000	A
-Austin Zimmerman	5	950	A
-Arlo Rudy	6	765	A
-Diego Ruiz	7	925	A
-Nico Aldaco	8	1540	A
-Bobin Chen	9	1225	A
-Alex Bazeley	1	890	B
-Marcus Cornelious	2	625	B
-Ezekiel Knox	3	685	B
-Jonah Baumgatner	4	835	B
-Daniel H-L	5	910	B
-Vincent Seneca	6	260	B
-Jose Jasso	8	2925	B
-Ayden J	9	870	B
-Andre Sims	1	775	C
-Enrique Sanchez	2	1700	C
-Octavio	3	1180	C
-Joselvin Galeas	5	810	C
-Lawrence Teng	6	505	C
-Ben  	7	830	C
-Daniel Beeman	8	1200	C
-Gilberto	1	0	D
-Daniel H.	2	980	D
-Xiao	3	860	D
-Celeste	4	870	D
-Aureo	5	1050	D
-Noelle Shaw	6	1365	D
-Josh Xu	7	2780	D
-Carlos V-H	8	815	D
-Nick Ultsch	9	280	D
+Player	chips-day1	chips-day2
+Jake Muldoon	875	2120
+Sawyer Nixon	740	0
+Elizabeth Sancha	980	705
+Josh Pena	1000	2080
+Austin Zimmerman	950	1120
+Arlo Rudy	765	680
+Diego Ruiz	925	885
+Nico Aldaco	1540	1400
+Bobin Chen	1225	0
+Alex Bazeley	890	215
+Marcus Cornelious	625	0
+Ezekiel Knox	685	1330
+Jonah Baumgatner	835	1565
+Daniel H-L	910	1530
+Vincent Seneca	260	425
+Jose Jasso	2925	1375
+Ayden J	870	1435
+Andre Sims	775	300
+Enrique Sanchez	1700	1115
+Octavio	1180	1200
+Joselvin Galeas	810	2280
+Lawrence Teng	505	995
+Ben	830	790
+Daniel Beeman	1200	1095
+Gilberto Arellano	0	0
+Daniel Hailozian	980	870
+Xiao	860	195
+Celeste	870	550
+Aureo	1050	280
+Noelle Shaw	1365	3750
+Josh Xu	2780	2285
+Carlos V-H	815	95
+Nick Ultsch	280	975
+Trevon Newmann		0
