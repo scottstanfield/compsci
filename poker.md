@@ -21,9 +21,8 @@ A new poker data file has been created. And this one is a little bit easier.
 |Beeman  |1200             |1095             |
 |Nick U  |280              |975              |
 
+Download this file:
 https://raw.github.com/scottstanfield/compsci/master/poker.tsv
-
-The poker data file is located at this [gist](https://raw.github.com/scottstanfield/compsci/master/poker.tsv)
 
 On your smpanthers.com account, use these commands to download the file:
 
