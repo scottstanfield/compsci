@@ -21,13 +21,14 @@ A new poker data file has been created. And this one is a little bit easier.
 |Beeman  |1200             |1095             |
 |Nick U  |280              |975              |
 
+https://raw.github.com/scottstanfield/compsci/master/poker.tsv
 
-The poker data file is located at this [gist](https://gist.github.com/scottstanfield/0b18719bf24ecd20745d)
+The poker data file is located at this [gist](https://raw.github.com/scottstanfield/compsci/master/poker.tsv)
 
 On your smpanthers.com account, use these commands to download the file:
 
         $ cd ~/code
-        $ curl https://gist.github.com/scottstanfield/0b18719bf24ecd20745d/raw > poker.tsv
+        $ curl https://raw.github.com/scottstanfield/compsci/master/poker.tsv > poker.tsv
         $ expand -20 poker.tsv
 
 The extension "tsv" stands for tab-separated variables. csv is more common, but 
