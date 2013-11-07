@@ -1,6 +1,16 @@
 Computer Science Class
 ----------------------
 
+Google Python Videos
+====================
+Google Python Class
+Three hours with Nick Parlante
+
+* [Day 1](http://www.youtube.com/watch?v=tKTZoB2Vjuk)
+* [Day 2](http://www.youtube.com/watch?v=EPYupizJYQI)
+* [Day 3](http://www.youtube.com/watch?v=haycL41dAhg)
+
+
 Kahn Programming Videos
 =======================
 Quiz postponed to Monday, Oct 28
