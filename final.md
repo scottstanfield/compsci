@@ -6,9 +6,11 @@ Email me at sstanfield@smpanthers.org
 All programs must be saved to your ~/final folder on smpanthers.com.
 
 All programs' second line should look like this:
+
 		# Scott Stanfield
 
 If you're in a pair, do it like this:
+
 		# Scott Stanfield and Michael Jackson
 
 Implement 4 programs from the following list.
