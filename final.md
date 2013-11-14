@@ -51,6 +51,9 @@ hands of five. Each subsequent run of the program emits a different result.
 
 4. fold.py      
 "Fold" alphabet encryption
+Fold the 26 letter alphabet in half, so that the first 13 letters map to
+the last 13 letters. 
+
 
 5. vowel.py     
 Disenvowel: remove all the lower-case vowels from the stream.
@@ -80,7 +83,23 @@ Remove duplicate words from a file (lexical illusions)
         a second instance of the word “the”
         when it starts a new line.
 
-7. tip.py       Tip Calculator
+7. tip.py       
+Calculate common tips for a dinner check.  
 
-8. quiz.py      State Capital Quiz builder (worth two)
+		$ tip.py
+		Usage: tip.py amount [split]
+		$ tip.py 10.50 
+		12% tip is $1.26 or $11.76 total 
+		15% tip is $1.58 or $12.08 total
+		18% tip is $1.89 or $12.39 total 
+		$ tip.py 10.50 4
+		12% tip is $1.26 or $11.76 total ($2.94 split 4 ways)
+		15% tip is $1.58 or $12.08 total ($3.02 split 4 ways)
+		18% tip is $1.89 or $12.39 total ($3.10 split 4 ways)
+
+8. quiz.py      
+State Capital Quiz builder (worth two)
+Data and specification will be covered in class.
+
+
 
