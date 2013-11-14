@@ -52,8 +52,35 @@ hands of five. Each subsequent run of the program emits a different result.
 4. fold.py      
 "Fold" alphabet encryption
 
-5. vowel.py     Disemvowel
-6. dupes.py     Remove duplicate words from a file (lexical illusions)
+5. vowel.py     
+Disenvowel: remove all the lower-case vowels from the stream.
+If the first letter is a vowel, don't remove it. 
+
+        $ cat haiku
+        Haikus are easy
+        But sometimes they don't make sense
+        Refrigerator
+
+        $ cat haiku | ./vowel.py
+        Hks ar esy
+        Bt smtms thy dn't mk sns
+        Rfrgrtr
+
+6. dupes.py     
+Remove duplicate words from a file (lexical illusions)
+
+        $ cat doubles
+        Many readers are not aware that the
+        the brain will automatically ignore
+        a second second instance of the word “the”
+        when it starts a new line.
+        $ cat doubles | ./dupes.py
+        Many readers are not aware that the
+        brain will automatically ignore
+        a second instance of the word “the”
+        when it starts a new line.
+
 7. tip.py       Tip Calculator
+
 8. quiz.py      State Capital Quiz builder (worth two)
 
