@@ -31,8 +31,11 @@ Find the longest sequence under 1000. This is nearly identical to
 problem number 14 on Project Euler (https://projecteuler.net/problem=14)
 except that I want the number under 1000, not 1 million.
 
+My version of collatz below shows the longest sequence under 500, so you know 
+what kind of output I'm expecting.
+
         $ ./collatz.py 
-        collatz(481) has the longest length of 39 elements
+        collatz(327) has the longest length of 144 elements
 
 2. squareroot.py  
 Implement the square root algorithm (without using math.sqrt)
