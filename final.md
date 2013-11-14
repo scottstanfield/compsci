@@ -1,8 +1,16 @@
 Final Exam
 ==========
 
-If you have any questions, email me at sstanfield@smpanthers.org
+Note: if you have any questions, email me at sstanfield@smpanthers.org
+or bring it up in class.
 
+## Final Summary
+* writing 4 small programs (your choice from a list of 8)  
+* a short code review with me in person, of one of your programs (my choice) to asses your learning  
+* a short, in-class quiz (open, printed notes permitted)
+ 
+
+## Rules for submissions
 All programs must be saved to your ~/final folder on smpanthers.com.
 
 All programs' second line should look like this:
@@ -12,6 +20,8 @@ All programs' second line should look like this:
 If you're in a pair, do it like this:
 
         # Scott Stanfield and Michael Jackson
+
+## The 8 Programs
 
 Implement 4 programs from the following list (your choice). The last one
 counts as two (it's worth double).
