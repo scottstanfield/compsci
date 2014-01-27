@@ -1,6 +1,5 @@
 ## Saint Mary's College High School
 Mr Scott Stanfield  (sstanfield@smpanthers.org)  
-Mr Erick Molnar     (emolnar@stmchs.org)  
 
 Computer Science • Winter 2013
 
@@ -24,7 +23,7 @@ Computer Science • Winter 2013
 
 9. What's is your favorite movie?  
 
-10. What is your favorite computer/board/card game?  
+10. What is your favorite computer/board/card game (pick one)?  
 
 11. What is one, or some, or your greatest talents?  
 
