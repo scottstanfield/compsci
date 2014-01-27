@@ -2,7 +2,7 @@
 Mr Scott Stanfield  (sstanfield@smpanthers.org)  
 Mr Erick Molnar     (emolnar@stmchs.org)  
 
-Computer Science • Fall 2013
+Computer Science • Winter 2013
 
 ## Opening Questionnaire
 

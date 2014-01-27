@@ -56,21 +56,11 @@ show a list of all the commands you've typed
 
 optional
 --------
-`brew`  
-the AppStore for the command line
-
 `telnet`  
 log into another computer
-
-`su` 
-switch user
-
-`sudo`  
-switch user and do this command
 
 `tr`  
 translates a range of characters
 
-`gcc`  
-the GNU C compiler, necessary for brew and most apps
-
+`tar`
+used to compress/uncompress files. Like ZIP but for Unix. Stands for "tape archive"
