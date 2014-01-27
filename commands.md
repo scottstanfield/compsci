@@ -36,8 +36,8 @@ show <file> contents, but stop after each page of text
 `wc <file>`  
 show lines, words and bytes in a file
 
-`nano <file>`  
-simple text editor
+`vi <file>`  
+vi/vim text editor
 
 `pwd`  
 show the current "working" directory
